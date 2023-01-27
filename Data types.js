@@ -1,1 +1,0 @@
-console.log('typeof _variable_ => variable type')
